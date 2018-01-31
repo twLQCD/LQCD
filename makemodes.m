@@ -8,6 +8,8 @@
 %clear I k B
 latsize
 
+%This is a test comment for github practice! -TW
+
 %%%%%%%%%%%%% 8888 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if(latsize == 8888)
