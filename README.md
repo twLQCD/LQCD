@@ -1,2 +1,2 @@
 # LQCD
-files for rsearch
+files for research
